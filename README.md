@@ -208,7 +208,7 @@ Promote awareness of living-off-the-land techniques.
 - https://medium.com/@lazyown.redteam
 - https://discord.gg/V3usU8yH
 - https://ko-fi.com/Y8Y2Z73AV
-- https://github.com/grisuno/LazyOwn/archive/refs/tags/release/0.2.51.tar.gz 
+- https://github.com/grisuno/LazyOwn/archive/refs/tags/release/0.2.52.tar.gz 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
