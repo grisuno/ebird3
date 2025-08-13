@@ -30,6 +30,9 @@ This tool is intended **exclusively for academic and ethical penetration testing
 
 ## 🛠️ Technical Details
 
+<img width="1706" height="329" alt="image" src="https://github.com/user-attachments/assets/61b9a1b0-d90d-4a81-a698-c39ee6e23b7c" />
+
+
 ### 🔧 Core Features
 
 | Feature | Description |
@@ -41,6 +44,9 @@ This tool is intended **exclusively for academic and ethical penetration testing
 | **Anti-Analysis** | Detects VM environments (VMware, VirtualBox, QEMU, Xen) via registry checks and exits if detected. |
 | **Manual HTTP Client** | Implements a minimal HTTP 1.1 client using WinSock to avoid `WinINet`/`WinHTTP` detection. |
 | **Stackless Compilation** | Compiled with `-fno-stack-protector` and optimized for size (`-Os`) to reduce footprint. |
+
+
+<img width="1401" height="707" alt="image" src="https://github.com/user-attachments/assets/268a2750-ede9-4967-ab20-378f29fd5acb" />
 
 ---
 
@@ -183,6 +189,26 @@ Help security researchers understand APC injection and NT API abuse.
 Assist blue teams in developing better detection rules.
 Promote awareness of living-off-the-land techniques.
 
+## 🔗 Links
+
+- https://github.com/grisuno/LazyOwn
+- https://grisuno.github.io/LazyOwn/
+- https://www.reddit.com/r/LazyOwn/
+- https://github.com/grisuno/LazyOwnBT
+- https://web.facebook.com/profile.php?id=61560596232150
+- https://app.hackthebox.com/teams/overview/6429
+- https://app.hackthebox.com/users/1998024
+- https://patreon.com/LazyOwn 
+- https://deepwiki.com/grisuno/ebird3
+- https://github.com/grisuno/cgoblin
+- https://github.com/grisuno/gomulti_loader
+- https://github.com/grisuno/ShadowLink
+- https://github.com/grisuno/OverRide
+- https://github.com/grisuno/amsi
+- https://medium.com/@lazyown.redteam
+- https://discord.gg/V3usU8yH
+- https://ko-fi.com/Y8Y2Z73AV
+- https://github.com/grisuno/LazyOwn/archive/refs/tags/release/0.2.51.tar.gz 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
