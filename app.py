@@ -12,4 +12,4 @@ Descripción:
 """
 import os
 
-os.system("./gen_ebird3.sh")
+os.system("bash gen_ebird3.sh")
