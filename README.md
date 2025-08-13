@@ -1,5 +1,8 @@
 # ebird3 – Advanced Early Bird APC Injection Tool
 
+<img width="1328" height="1328" alt="image" src="https://github.com/user-attachments/assets/dbda3075-43c1-4b0d-8580-b4c9ad7886b0" />
+
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
