@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2Z73AV)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grisuno&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
 ---
 
 - **GitHub Repository:** [https://github.com/grisuno/ebird3](https://github.com/grisuno/ebird3)
